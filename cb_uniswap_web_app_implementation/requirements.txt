@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+matplotlib
+mplfinance
+plotly
+anthropic
+web3
+python-dotenv
+flask
+
